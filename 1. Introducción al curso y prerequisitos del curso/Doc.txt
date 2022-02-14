@@ -1,0 +1,14 @@
+Bienvenido al Curso Básico de GraphQL. En este curso el profesor Adrián Estrada, desarrollador Node.js trabajando para NodeSource, te mostrará las bases de GraphQL y por qué es tan importante en el mundo.
+
+Para este curso es necesario tener buenas bases de Node y conocimientos de bases de datos no relacionales como MongoDB. Puedes checar el Curso Básico de Node.js y el Curso Básico de MongoDB.
+
+Lecturas recomendadas
+
+Curso Básico de Node.js | Materiales
+
+https://platzi.com/clases/basico-nodejs/
+
+
+Curso Básico de MongoDB | Materiales
+
+https://platzi.com/clases/mongodb/
